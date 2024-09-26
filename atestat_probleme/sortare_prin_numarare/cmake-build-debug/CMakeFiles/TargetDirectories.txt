@@ -1,0 +1,3 @@
+/cygdrive/f/scoala/info/atestat/sortare_prin_numarare/cmake-build-debug/CMakeFiles/sortare_prin_numarare.dir
+/cygdrive/f/scoala/info/atestat/sortare_prin_numarare/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/f/scoala/info/atestat/sortare_prin_numarare/cmake-build-debug/CMakeFiles/rebuild_cache.dir

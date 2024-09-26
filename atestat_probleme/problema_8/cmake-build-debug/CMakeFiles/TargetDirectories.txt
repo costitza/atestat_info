@@ -1,0 +1,3 @@
+/cygdrive/f/scoala/info/atestat/problema_8/cmake-build-debug/CMakeFiles/problema_8.dir
+/cygdrive/f/scoala/info/atestat/problema_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/f/scoala/info/atestat/problema_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
