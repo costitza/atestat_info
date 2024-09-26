@@ -1,3 +1,3 @@
-/cygdrive/f/scoala/info/atestat/problema_16/cmake-build-debug/CMakeFiles/problema_16.dir
-/cygdrive/f/scoala/info/atestat/problema_16/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/f/scoala/info/atestat/problema_16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/f/scoala/info/atestat/atestat_info/atestat_probleme/problema_16/cmake-build-debug/CMakeFiles/problema_16.dir
+/cygdrive/f/scoala/info/atestat/atestat_info/atestat_probleme/problema_16/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/f/scoala/info/atestat/atestat_info/atestat_probleme/problema_16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
