@@ -11,7 +11,8 @@
 using namespace std;
 
 ifstream fin("bac.txt");
-int n, m, p, a[100], b[100], c[201];
+int n, m, p;
+float a[100], b[100], c[201];
 
 void citire() {
     fin >> n>>m;
@@ -37,9 +38,10 @@ void polisum() {
 }
 
 void afisare() {
-    cout<<p<<'\n';
+    cout << p << '\n';
+    cout << fixed;
     for (int i = 0; i <= p; i++)
-        cout << c[i] << ' ';
+        cout << setprecision(2) << c[i] << ' ';
     cout << '\n';
 }
 
